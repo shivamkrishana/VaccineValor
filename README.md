@@ -25,7 +25,9 @@ pip install pygame
 ```
 - Clone this repository:
 
-```git clone [repository-url]```
+```
+git clone [repository-url]
+```
 
 - Navigate to the project directory and run the game:
 
