@@ -7,6 +7,7 @@ Vaccine Valor Game is a simple 2D game built using the Pygame library. The objec
 Players control a vaccine syringe using arrow keys to navigate across the screen. The objective is to eliminate germs by colliding with them while avoiding healthy cells. The game provides a dynamic environment with a limited number of healthy cells, creating a challenging experience that requires precision and strategic movement.
 
 ## Features
+![Uploading Screenshot 2023-08-31 at 4.39.08 PM.png…]()
 
 - User-controlled vaccine syringe movement using arrow keys.
 - Germs and healthy cells spawn randomly on the screen.
